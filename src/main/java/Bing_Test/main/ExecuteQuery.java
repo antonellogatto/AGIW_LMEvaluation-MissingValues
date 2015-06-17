@@ -12,12 +12,12 @@ public class ExecuteQuery {
 
 		ExecuteQuerySecond second = new ExecuteQuerySecond();
 		
-//		try {
-//			first.execute();
-//		} catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
+		try {
+			first.execute();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 		try {
 			second.execute();

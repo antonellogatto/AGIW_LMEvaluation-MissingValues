@@ -1,12 +1,8 @@
 REQUISITI
 
-installare pig-0.14.0
+pig-0.14.0
 
-Log-in a Bing 
-
-Avere a disposizione circa 20 mila query Bing
-	(2000 nella prima fase)
-	(200 * #EXACT_MATCH(circa 90 + 30(nuovo Language Model)))
+Bing API
 
 CONFIGURAZIONE
 
